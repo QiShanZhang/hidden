@@ -1,8 +1,8 @@
 hidden
 ===============
-This repository contains our implementation of the paper published in the Speaker Odyssey 2022 workshop, "Automatic speaker verification spoofing and deepfake detection using wav2vec 2.0 and data augmentation". This work produced state-of-the-art result on more challenging ASVspoof 2021 LA and DF database.
+This repository contains our implementation of the paper published in the workshop, "". This work produced state-of-the-art result on more challenging ASVspoof 2021 LA and DF database.
 
-[Paper link here](https://arxiv.org/abs/2202.12233)
+[Paper link here]()
 
 
 ## Installation
@@ -74,16 +74,10 @@ python evaluate_2021_DF.py Score_DF.txt ./keys eval
 ``` 
 ## Contact
 For any query regarding this repository, please contact:
-- Hemlata Tak: tak[at]eurecom[dot]fr
+
 ## Citation
 If you use this code in your research please use the following citation:
 ```bibtex
 
-@inproceedings{tak2022automatic,
-  title={Automatic speaker verification spoofing and deepfake detection using wav2vec 2.0 and data augmentation},
-  author={Tak, Hemlata and Todisco, Massimiliano and Wang, Xin and Jung, Jee-weon and Yamagishi, Junichi and Evans, Nicholas},
-  booktitle={The Speaker and Language Recognition Workshop},
-  year={2022}
-}
 ```
 
